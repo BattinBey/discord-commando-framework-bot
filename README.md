@@ -65,7 +65,5 @@ If you are not cloning this repo, make sure your dependencies versions are the s
 
 [Get a Genius API key here](https://genius.com/api-clients/new)
 
-[Installing node.js on debian](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-debian-9)
-
 [Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
 
